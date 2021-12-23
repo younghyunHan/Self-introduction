@@ -1,0 +1,134 @@
+h1{
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+body {
+  background-color: #f2f4f6;
+}
+
+#dream {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #4f4f4f;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom : 10px;
+}
+
+#personality {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  paddig : 10px;
+}
+
+#interest {
+  border: 3px solid black;
+  width : 150px;
+  text-align : center;
+
+  font-size : 20px;
+}
+
+#skills {
+  border: 3px solid black;
+  width : 150px;
+  text-align : center;
+  font-size : 20px;
+}
+
+#mentor {
+  border: 3px solid black;
+  width : 150px;
+  text-align : center;
+  font-size : 20px;
+}
+
+#future {
+  border: 3px solid black;
+  width : 150px;
+  text-align : center;
+  font-size : 20px;
+}
+
+#main {
+  margin-top : 70px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+#profile {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 100px;
+}
+
+#picture {
+  padding-left: 100px
+}
+
+#self1 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 200%;
+}
+
+#self2 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 200%;
+}
+
+#tobe{
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 200%;
+}
+
+#self3 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #4f4f4f;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#self4 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #4f4f4f;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.contact{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #4f4f4f;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.contact2{
+  text-align: center;
+  font-size: 50px;
+}
+
+.menu li{
+  float: right;
+  list-style: none;
+  margin-top: 10px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  font-style:italic;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+}
